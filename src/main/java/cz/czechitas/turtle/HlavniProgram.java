@@ -95,7 +95,6 @@ public void nakresliZmrzlinu(double strana_b,double polomer,int nuhelnik, Color 
         zofka.penDown();
         nakresliKolecko(polomer4,neuhenik,barva);
 
-
     }
     public void nakresliRovTrojuhelnik(double strana_a,double strana_b,Color barvaCary) {
         double x = ((strana_a/2)/strana_b);
